@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2015-04-13 18:47:16">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>App Dev Workshop</name>
+<origin_sys_id/>
+<release_date/>
+<remote_sys_id>1ea1a13fa5cf31007f445f185edd823a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>ccfec11fa5d771007f445f185edd828a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_0b33253fa5cf31007f445f185edd82ac</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;8e33b1f4693231007f445127304e902f&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="cmdb_model_category"&gt;
+    &lt;cmdb_model_category action="INSERT_OR_UPDATE"&gt;
+        &lt;allow_as_master&gt;false&lt;/allow_as_master&gt;
+        &lt;allow_in_bundle&gt;false&lt;/allow_in_bundle&gt;
+        &lt;allow_pre_allocation&gt;false&lt;/allow_pre_allocation&gt;
+        &lt;asset_class/&gt;
+        &lt;bundle&gt;false&lt;/bundle&gt;
+        &lt;cmdb_ci_class/&gt;
+        &lt;enforce_verification&gt;false&lt;/enforce_verification&gt;
+        &lt;name&gt;Marketing&lt;/name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 06:29:50&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;8e33b1f4693231007f445127304e902f&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 06:29:50&lt;/sys_updated_on&gt;
+    &lt;/cmdb_model_category&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-02 23:17:13&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;0b33253fa5cf31007f445f185edd82ac&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Marketing&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_0b33253fa5cf31007f445f185edd82ac&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-02 23:17:13&lt;/sys_updated_on&gt;&lt;tablename&gt;cmdb_model_category&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>00fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Marketing</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_6b93253fa5cf31007f445f185edd82f9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;02b3b1f4693231007f445127304e9073&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="cmdb_hardware_product_model"&gt;
+    &lt;cmdb_hardware_product_model action="INSERT_OR_UPDATE"&gt;
+        &lt;acquisition_method/&gt;
+        &lt;asset_tracking_strategy&gt;leave_to_category&lt;/asset_tracking_strategy&gt;
+        &lt;barcode/&gt;
+        &lt;bundle&gt;false&lt;/bundle&gt;
+        &lt;certified&gt;false&lt;/certified&gt;
+        &lt;cmdb_ci_class/&gt;
+        &lt;cmdb_model_category&gt;8e33b1f4693231007f445127304e902f&lt;/cmdb_model_category&gt;
+        &lt;comments/&gt;
+        &lt;cost&gt;800&lt;/cost&gt;
+        &lt;depreciation/&gt;
+        &lt;description/&gt;
+        &lt;display_name&gt;Sony AV Equipment&lt;/display_name&gt;
+        &lt;flow_rate/&gt;
+        &lt;full_name/&gt;
+        &lt;main_component/&gt;
+        &lt;manufacturer display_value="Sony"&gt;7aae6bacc61122840197d63b015021b6&lt;/manufacturer&gt;
+        &lt;model_number/&gt;
+        &lt;name&gt;AV Equipment&lt;/name&gt;
+        &lt;owner/&gt;
+        &lt;picture/&gt;
+        &lt;power_consumption/&gt;
+        &lt;product_catalog_item/&gt;
+        &lt;rack_units&gt;1&lt;/rack_units&gt;
+        &lt;short_description/&gt;
+        &lt;sla/&gt;
+        &lt;sound_power/&gt;
+        &lt;status&gt;In Production&lt;/status&gt;
+        &lt;sys_class_name&gt;cmdb_hardware_product_model&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 06:31:58&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;02b3b1f4693231007f445127304e9073&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-04-13 18:11:31&lt;/sys_updated_on&gt;
+        &lt;type&gt;Generic&lt;/type&gt;
+        &lt;weight/&gt;
+    &lt;/cmdb_hardware_product_model&gt;
+    &lt;fx_price action="delete_multiple" query="id=02b3b1f4693231007f445127304e9073"/&gt;
+    &lt;fx_price action="INSERT_OR_UPDATE"&gt;
+        &lt;amount&gt;800&lt;/amount&gt;
+        &lt;currency display_value="USD"&gt;USD&lt;/currency&gt;
+        &lt;field&gt;cost&lt;/field&gt;
+        &lt;id&gt;02b3b1f4693231007f445127304e9073&lt;/id&gt;
+        &lt;parent/&gt;
+        &lt;reference_amount&gt;800&lt;/reference_amount&gt;
+        &lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 06:31:58&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;60c3b1f4693231007f445127304e9087&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 09:00:19&lt;/sys_updated_on&gt;
+        &lt;table&gt;cmdb_hardware_product_model&lt;/table&gt;
+        &lt;type&gt;calculated&lt;/type&gt;
+    &lt;/fx_price&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=02b3b1f4693231007f445127304e9073"/&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-02 23:18:53&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;6b93253fa5cf31007f445f185edd82f9&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sony AV Equipment&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_6b93253fa5cf31007f445f185edd82f9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-13 18:26:34&lt;/sys_updated_on&gt;&lt;tablename&gt;cmdb_hardware_product_model&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>04fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Sony AV Equipment</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_e393253fa5cf31007f445f185edd82fa</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;d883b1f4693231007f445127304e903d&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="cmdb_hardware_product_model"&gt;
+    &lt;cmdb_hardware_product_model action="INSERT_OR_UPDATE"&gt;
+        &lt;acquisition_method/&gt;
+        &lt;asset_tracking_strategy&gt;leave_to_category&lt;/asset_tracking_strategy&gt;
+        &lt;barcode/&gt;
+        &lt;bundle&gt;false&lt;/bundle&gt;
+        &lt;certified&gt;false&lt;/certified&gt;
+        &lt;cmdb_ci_class/&gt;
+        &lt;cmdb_model_category&gt;8e33b1f4693231007f445127304e902f&lt;/cmdb_model_category&gt;
+        &lt;comments/&gt;
+        &lt;cost&gt;1000&lt;/cost&gt;
+        &lt;depreciation/&gt;
+        &lt;description/&gt;
+        &lt;display_name&gt;Sony Projector&lt;/display_name&gt;
+        &lt;flow_rate/&gt;
+        &lt;full_name/&gt;
+        &lt;main_component/&gt;
+        &lt;manufacturer display_value="Sony"&gt;7aae6bacc61122840197d63b015021b6&lt;/manufacturer&gt;
+        &lt;model_number/&gt;
+        &lt;name&gt;Projector&lt;/name&gt;
+        &lt;owner/&gt;
+        &lt;picture/&gt;
+        &lt;power_consumption/&gt;
+        &lt;product_catalog_item/&gt;
+        &lt;rack_units&gt;1&lt;/rack_units&gt;
+        &lt;short_description/&gt;
+        &lt;sla/&gt;
+        &lt;sound_power/&gt;
+        &lt;status&gt;In Production&lt;/status&gt;
+        &lt;sys_class_name&gt;cmdb_hardware_product_model&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 06:31:39&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;d883b1f4693231007f445127304e903d&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-04-13 18:11:48&lt;/sys_updated_on&gt;
+        &lt;type&gt;Generic&lt;/type&gt;
+        &lt;weight/&gt;
+    &lt;/cmdb_hardware_product_model&gt;
+    &lt;fx_price action="delete_multiple" query="id=d883b1f4693231007f445127304e903d"/&gt;
+    &lt;fx_price action="INSERT_OR_UPDATE"&gt;
+        &lt;amount&gt;1000&lt;/amount&gt;
+        &lt;currency display_value="USD"&gt;USD&lt;/currency&gt;
+        &lt;field&gt;cost&lt;/field&gt;
+        &lt;id&gt;d883b1f4693231007f445127304e903d&lt;/id&gt;
+        &lt;parent/&gt;
+        &lt;reference_amount&gt;1000&lt;/reference_amount&gt;
+        &lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 06:31:39&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;c8b3b1f4693231007f445127304e9085&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 08:58:13&lt;/sys_updated_on&gt;
+        &lt;table&gt;cmdb_hardware_product_model&lt;/table&gt;
+        &lt;type&gt;calculated&lt;/type&gt;
+    &lt;/fx_price&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=d883b1f4693231007f445127304e903d"/&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-02 23:18:53&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;e393253fa5cf31007f445f185edd82fa&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sony Projector&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_e393253fa5cf31007f445f185edd82fa&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-13 18:26:35&lt;/sys_updated_on&gt;&lt;tablename&gt;cmdb_hardware_product_model&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>08fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Sony Projector</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_3383653fa5cf31007f445f185edd8240</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link"><sys_metadata_link action="INSERT_OR_UPDATE"><directory>update</directory><documentkey>f8fdc4df0a0a0b91009008b52d01b55d</documentkey><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="cmdb_hardware_product_model"&gt;
+    &lt;cmdb_hardware_product_model action="INSERT_OR_UPDATE"&gt;
+        &lt;acquisition_method/&gt;
+        &lt;asset_tracking_strategy&gt;leave_to_category&lt;/asset_tracking_strategy&gt;
+        &lt;barcode&gt;HL-4150CDN&lt;/barcode&gt;
+        &lt;bundle&gt;false&lt;/bundle&gt;
+        &lt;certified&gt;true&lt;/certified&gt;
+        &lt;cmdb_ci_class/&gt;
+        &lt;cmdb_model_category&gt;3dfe3854c3031000b959fd251eba8f42,8e33b1f4693231007f445127304e902f&lt;/cmdb_model_category&gt;
+        &lt;comments/&gt;
+        &lt;cost&gt;399.5&lt;/cost&gt;
+        &lt;depreciation/&gt;
+        &lt;description&gt;&lt;![CDATA[&lt;h3&gt;Main Features&lt;/h3&gt;
+&lt;li&gt;&lt;span class="NoColor_Bold_None"&gt;Fast color output.&lt;/span&gt; With a print speed up to 25ppm in both color and black, you no longer have to wait for brilliant color output.&lt;/li&gt;
+&lt;li&gt;&lt;span class="NoColor_Bold_None"&gt;Easily print two-sided documents.&lt;/span&gt; Using the color laser printer&amp;#39;s duplex printing feature, you can help reduce your printing costs and produce two-sided documents, presentations and brochures.&lt;/li&gt;
+&lt;li&gt;&lt;span class="NoColor_Bold_None"&gt;USB Direct Interface.&lt;/span&gt; Print PDF and JPEG files directly from your USB flash memory drive without connecting to your PC.&lt;/li&gt;
+&lt;li&gt;&lt;span class="NoColor_Bold_None"&gt;High capacity replacement toner cartridges.&lt;/span&gt; Spend less time replacing supplies and help reduce operating costs by using high yield replacement toner cartridges.&lt;/li&gt;
+&lt;li&gt;&lt;span class="NoColor_Bold_None"&gt;Built-in Networking.&lt;/span&gt; Share the HL-4150CDN with everyone on your network via its built-in Ethernet network interface.&lt;/li&gt;
+&lt;li&gt;&lt;span class="NoColor_Bold_None"&gt;Flexible paper handling.&lt;/span&gt; Use the 250-sheet capacity paper tray for letter or legal paper. Plus, a 50-sheet capacity multi-purpose tray for envelopes or thicker media.&lt;/li&gt;
+&lt;li&gt;&lt;span class="NoColor_Bold_None"&gt;Expandable paper capacity.&lt;/span&gt; You can increase your total paper capacity to 800 sheets by adding an optional 500-sheet letter/legal paper tray.&lt;/li&gt;
+&lt;li&gt;&lt;span class="NoColor_Bold_None"&gt;Brother™ iPrint&amp;amp;Scan.&lt;/span&gt; Free app download for wireless printing (JPEG, PDF, web page &amp;amp; e-mail) from your Apple®, Android™ or Windows® Phone 7 (JPEG only) mobile device&lt;/li&gt;]]&gt;&lt;/description&gt;
+        &lt;display_name&gt;Brother Network-Ready Color Laser Printer&lt;/display_name&gt;
+        &lt;flow_rate/&gt;
+        &lt;full_name/&gt;
+        &lt;main_component/&gt;
+        &lt;manufacturer display_value="Brother"&gt;8218f1ecc0a8018b1bbea3b03f92b33e&lt;/manufacturer&gt;
+        &lt;model_number&gt;HL-4150CDN&lt;/model_number&gt;
+        &lt;name&gt;Network-Ready Color Laser Printer&lt;/name&gt;
+        &lt;owner/&gt;
+        &lt;picture/&gt;
+        &lt;power_consumption/&gt;
+        &lt;product_catalog_item display_value="Brother Network-Ready Color Laser Printer"&gt;e90a0f7237153000158bbfc8bcbe5d7f&lt;/product_catalog_item&gt;
+        &lt;rack_units&gt;1&lt;/rack_units&gt;
+        &lt;short_description&gt;Brother - Network-Ready Color Laser Printer&lt;/short_description&gt;
+        &lt;sla/&gt;
+        &lt;sound_power/&gt;
+        &lt;status&gt;In Production&lt;/status&gt;
+        &lt;sys_class_name&gt;cmdb_hardware_product_model&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;jay.berlin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2010-05-13 21:05:32&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;f8fdc4df0a0a0b91009008b52d01b55d&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;21&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-04-13 18:11:40&lt;/sys_updated_on&gt;
+        &lt;type&gt;Generic&lt;/type&gt;
+        &lt;weight/&gt;
+    &lt;/cmdb_hardware_product_model&gt;
+    &lt;fx_price action="delete_multiple" query="id=f8fdc4df0a0a0b91009008b52d01b55d"/&gt;
+    &lt;fx_price action="INSERT_OR_UPDATE"&gt;
+        &lt;amount&gt;399.5&lt;/amount&gt;
+        &lt;currency display_value="USD"&gt;USD&lt;/currency&gt;
+        &lt;field&gt;cost&lt;/field&gt;
+        &lt;id&gt;f8fdc4df0a0a0b91009008b52d01b55d&lt;/id&gt;
+        &lt;parent/&gt;
+        &lt;reference_amount&gt;399.5&lt;/reference_amount&gt;
+        &lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2012-10-22 02:54:28&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;bfdaf60737013000158bbfc8bcbe5d03&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2012-10-22 02:54:28&lt;/sys_updated_on&gt;
+        &lt;table&gt;cmdb_hardware_product_model&lt;/table&gt;
+        &lt;type&gt;calculated&lt;/type&gt;
+    &lt;/fx_price&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=f8fdc4df0a0a0b91009008b52d01b55d"/&gt;
+&lt;/record_update&gt;
+</payload><sys_class_name>sys_metadata_link</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2015-04-02 23:18:38</sys_created_on><sys_customer_update>true</sys_customer_update><sys_id>3383653fa5cf31007f445f185edd8240</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Brother Network-Ready Color Laser Printer</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_metadata_link_3383653fa5cf31007f445f185edd8240</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2015-04-13 18:26:35</sys_updated_on><tablename>cmdb_hardware_product_model</tablename></sys_metadata_link></record_update>]]></payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>40fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Brother Network-Ready Color Laser Printer</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_778e411fa5d771007f445f185edd828b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;unload&lt;/directory&gt;&lt;documentkey&gt;a5c3b1f4693231007f445127304e90b9&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="cmdb_hardware_product_model"&gt;
+    &lt;cmdb_hardware_product_model action="INSERT_OR_UPDATE"&gt;
+        &lt;acquisition_method/&gt;
+        &lt;asset_tracking_strategy&gt;leave_to_category&lt;/asset_tracking_strategy&gt;
+        &lt;barcode/&gt;
+        &lt;bundle&gt;false&lt;/bundle&gt;
+        &lt;certified&gt;false&lt;/certified&gt;
+        &lt;cmdb_ci_class/&gt;
+        &lt;cmdb_model_category&gt;8e33b1f4693231007f445127304e902f&lt;/cmdb_model_category&gt;
+        &lt;comments/&gt;
+        &lt;cost&gt;300&lt;/cost&gt;
+        &lt;depreciation/&gt;
+        &lt;description/&gt;
+        &lt;display_name&gt;Sony Wireless Microphone&lt;/display_name&gt;
+        &lt;flow_rate/&gt;
+        &lt;full_name/&gt;
+        &lt;main_component/&gt;
+        &lt;manufacturer display_value="Sony"&gt;7aae6bacc61122840197d63b015021b6&lt;/manufacturer&gt;
+        &lt;model_number/&gt;
+        &lt;name&gt;Wireless Microphone&lt;/name&gt;
+        &lt;owner/&gt;
+        &lt;picture/&gt;
+        &lt;power_consumption/&gt;
+        &lt;product_catalog_item/&gt;
+        &lt;rack_units&gt;1&lt;/rack_units&gt;
+        &lt;short_description/&gt;
+        &lt;sla/&gt;
+        &lt;sound_power/&gt;
+        &lt;status&gt;In Production&lt;/status&gt;
+        &lt;sys_class_name&gt;cmdb_hardware_product_model&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 06:32:11&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;a5c3b1f4693231007f445127304e90b9&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 08:58:54&lt;/sys_updated_on&gt;
+        &lt;type&gt;Generic&lt;/type&gt;
+        &lt;weight/&gt;
+    &lt;/cmdb_hardware_product_model&gt;
+    &lt;fx_price action="delete_multiple" query="id=a5c3b1f4693231007f445127304e90b9"/&gt;
+    &lt;fx_price action="INSERT_OR_UPDATE"&gt;
+        &lt;amount&gt;300&lt;/amount&gt;
+        &lt;currency display_value="USD"&gt;USD&lt;/currency&gt;
+        &lt;field&gt;cost&lt;/field&gt;
+        &lt;id&gt;a5c3b1f4693231007f445127304e90b9&lt;/id&gt;
+        &lt;parent/&gt;
+        &lt;reference_amount&gt;300&lt;/reference_amount&gt;
+        &lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 06:32:11&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;c4d3b1f4693231007f445127304e9088&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 08:58:54&lt;/sys_updated_on&gt;
+        &lt;table&gt;cmdb_hardware_product_model&lt;/table&gt;
+        &lt;type&gt;calculated&lt;/type&gt;
+    &lt;/fx_price&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=a5c3b1f4693231007f445127304e90b9"/&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-13 18:45:38&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;778e411fa5d771007f445f185edd828b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sony Wireless Microphone&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_778e411fa5d771007f445f185edd828b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-13 18:45:38&lt;/sys_updated_on&gt;&lt;tablename&gt;cmdb_hardware_product_model&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>44fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Sony Wireless Microphone</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_ef24a53fa5cf31007f445f185edd82c0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;f1e996b8693231007f445127304e905f&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="sys_user_has_role"&gt;
+    &lt;sys_user_has_role action="INSERT_OR_UPDATE"&gt;
+        &lt;granted_by/&gt;
+        &lt;included_in_role display_value="Created 2015-03-12 02:18:36"&gt;bde996b8693231007f445127304e905e&lt;/included_in_role&gt;
+        &lt;included_in_role_instance display_value="app_approvers.approver_user"&gt;dc2e6451d70031005eeaa2eb5e6103d2&lt;/included_in_role_instance&gt;
+        &lt;inherited&gt;true&lt;/inherited&gt;
+        &lt;role display_value="app_approvers" name="app_approvers"&gt;08332811d70031005eeaa2eb5e6103ec&lt;/role&gt;
+        &lt;state&gt;active&lt;/state&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 09:18:36&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;f1e996b8693231007f445127304e905f&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 09:18:36&lt;/sys_updated_on&gt;
+        &lt;user display_value="Natasha Ingram"&gt;46c5bf6ca9fe1981010713e3ac7d3384&lt;/user&gt;
+    &lt;/sys_user_has_role&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-02 23:21:21&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;ef24a53fa5cf31007f445f185edd82c0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Created 2015-03-12 02:18:36&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_ef24a53fa5cf31007f445f185edd82c0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-02 23:21:21&lt;/sys_updated_on&gt;&lt;tablename&gt;sys_user_has_role&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>48fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Created 2015-03-12 02:18:36</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_61e3653fa5cf31007f445f185edd82c7</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;a6e05678693231007f445127304e9083&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="sys_user_grmember"&gt;
+    &lt;sys_user_grmember action="INSERT_OR_UPDATE"&gt;
+        &lt;group display_value="Marketing Approvers" name="Marketing Approvers"&gt;8e905678693231007f445127304e9019&lt;/group&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 08:39:21&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;a6e05678693231007f445127304e9083&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 08:39:21&lt;/sys_updated_on&gt;
+        &lt;user display_value="Nelly Jakuboski"&gt;06826bf03710200044e0bfc8bcbe5d6f&lt;/user&gt;
+    &lt;/sys_user_grmember&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-02 23:20:08&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;61e3653fa5cf31007f445f185edd82c7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Created 2015-03-12 01:39:21&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_61e3653fa5cf31007f445f185edd82c7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-02 23:20:08&lt;/sys_updated_on&gt;&lt;tablename&gt;sys_user_grmember&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>80fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Created 2015-03-12 01:39:21</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_8424a53fa5cf31007f445f185edd82b3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;46c5bf6ca9fe1981010713e3ac7d3384&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update sys_domain="global" table="sys_user"&gt;
+    &lt;sys_user action="INSERT_OR_UPDATE"&gt;
+        &lt;accumulated_roles/&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;building/&gt;
+        &lt;calendar_integration/&gt;
+        &lt;city/&gt;
+        &lt;company display_value="ACME North America"&gt;31bea3d53790200044e0bfc8bcbe5dec&lt;/company&gt;
+        &lt;cost_center display_value="Sales"&gt;7fb1cc99c0a80a6d30c04574d14c0acf&lt;/cost_center&gt;
+        &lt;country/&gt;
+        &lt;date_format/&gt;
+        &lt;default_perspective/&gt;
+        &lt;department display_value="Finance"&gt;a581ab703710200044e0bfc8bcbe5de8&lt;/department&gt;
+        &lt;edu_status/&gt;
+        &lt;email&gt;natasha.ingram@example.com&lt;/email&gt;
+        &lt;employee_number/&gt;
+        &lt;failed_attempts/&gt;
+        &lt;first_name&gt;Natasha&lt;/first_name&gt;
+        &lt;gender/&gt;
+        &lt;home_phone/&gt;
+        &lt;internal_integration_user&gt;false&lt;/internal_integration_user&gt;
+        &lt;introduction/&gt;
+        &lt;last_login/&gt;
+        &lt;last_login_device&gt;76.238.237.114&lt;/last_login_device&gt;
+        &lt;last_login_time&gt;2015-03-16 16:15:10&lt;/last_login_time&gt;
+        &lt;last_name&gt;Ingram&lt;/last_name&gt;
+        &lt;last_password/&gt;
+        &lt;ldap_server/&gt;
+        &lt;location display_value="1390 S Colorado Blvd, Denver CO"&gt;25ab8fba0a0a0bb300486d4adc1c02e6&lt;/location&gt;
+        &lt;locked_out&gt;false&lt;/locked_out&gt;
+        &lt;manager/&gt;
+        &lt;middle_name/&gt;
+        &lt;mobile_phone/&gt;
+        &lt;name&gt;Natasha Ingram&lt;/name&gt;
+        &lt;notification&gt;1&lt;/notification&gt;
+        &lt;password_needs_reset&gt;false&lt;/password_needs_reset&gt;
+        &lt;phone/&gt;
+        &lt;photo/&gt;
+        &lt;preferred_language/&gt;
+        &lt;roles/&gt;
+        &lt;schedule/&gt;
+        &lt;source/&gt;
+        &lt;state/&gt;
+        &lt;street/&gt;
+        &lt;sys_class_name&gt;sys_user&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;system&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2007-08-12 23:08:18&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;46c5bf6ca9fe1981010713e3ac7d3384&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;guest&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 22:46:45&lt;/sys_updated_on&gt;
+        &lt;time_format/&gt;
+        &lt;time_zone/&gt;
+        &lt;title&gt;Chief Financial Officer&lt;/title&gt;
+        &lt;user_name&gt;natasha.ingram&lt;/user_name&gt;
+        &lt;user_password&gt;$s$cH4bBw755h/CTCIF/SQnJy4XvBqNEul0nw2a7+DQShU=$6PtgXIqjvWgGI/vRQW/ekZjOttzelyGjHz8Sa3EmGD8=&lt;/user_password&gt;
+        &lt;vip&gt;false&lt;/vip&gt;
+        &lt;web_service_access_only&gt;false&lt;/web_service_access_only&gt;
+        &lt;zip/&gt;
+    &lt;/sys_user&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-02 23:21:07&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;8424a53fa5cf31007f445f185edd82b3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Natasha Ingram&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_8424a53fa5cf31007f445f185edd82b3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-02 23:21:07&lt;/sys_updated_on&gt;&lt;tablename&gt;sys_user&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>84fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Natasha Ingram</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_efd3653fa5cf31007f445f185edd82de</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;a5115678693231007f445127304e9088&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="sys_group_has_role"&gt;
+    &lt;sys_group_has_role action="INSERT_OR_UPDATE"&gt;
+        &lt;granted_by/&gt;
+        &lt;group display_value="Marketing Approvers" name="Marketing Approvers"&gt;8e905678693231007f445127304e9019&lt;/group&gt;
+        &lt;inherits&gt;true&lt;/inherits&gt;
+        &lt;role display_value="approver_user" name="approver_user"&gt;debab85bff02110053ccffffffffffb6&lt;/role&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 08:40:05&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;a5115678693231007f445127304e9088&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 08:40:05&lt;/sys_updated_on&gt;
+    &lt;/sys_group_has_role&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-02 23:20:00&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;efd3653fa5cf31007f445f185edd82de&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Created 2015-03-12 01:40:05&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_efd3653fa5cf31007f445f185edd82de&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-02 23:20:00&lt;/sys_updated_on&gt;&lt;tablename&gt;sys_group_has_role&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>88fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Created 2015-03-12 01:40:05</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_6b24a53fa5cf31007f445f185edd82c0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;bde996b8693231007f445127304e905e&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="sys_user_has_role"&gt;
+    &lt;sys_user_has_role action="INSERT_OR_UPDATE"&gt;
+        &lt;granted_by/&gt;
+        &lt;included_in_role/&gt;
+        &lt;included_in_role_instance/&gt;
+        &lt;inherited&gt;false&lt;/inherited&gt;
+        &lt;role display_value="approver_user" name="approver_user"&gt;debab85bff02110053ccffffffffffb6&lt;/role&gt;
+        &lt;state&gt;active&lt;/state&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 09:18:36&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;bde996b8693231007f445127304e905e&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 09:18:36&lt;/sys_updated_on&gt;
+        &lt;user display_value="Natasha Ingram"&gt;46c5bf6ca9fe1981010713e3ac7d3384&lt;/user&gt;
+    &lt;/sys_user_has_role&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-02 23:21:21&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;6b24a53fa5cf31007f445f185edd82c0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Created 2015-03-12 02:18:36&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_6b24a53fa5cf31007f445f185edd82c0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-02 23:21:21&lt;/sys_updated_on&gt;&lt;tablename&gt;sys_user_has_role&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>c0fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Created 2015-03-12 02:18:36</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_cac3653fa5cf31007f445f185edd8244</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;8e905678693231007f445127304e9019&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="sys_user_group"&gt;
+    &lt;sys_user_group action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;cost_center/&gt;
+        &lt;default_assignee/&gt;
+        &lt;description/&gt;
+        &lt;email&gt;marketing.approvers@example.com&lt;/email&gt;
+        &lt;exclude_manager&gt;false&lt;/exclude_manager&gt;
+        &lt;hourly_rate&gt;0&lt;/hourly_rate&gt;
+        &lt;include_members&gt;false&lt;/include_members&gt;
+        &lt;manager display_value="Nelly Jakuboski"&gt;06826bf03710200044e0bfc8bcbe5d6f&lt;/manager&gt;
+        &lt;name&gt;Marketing Approvers&lt;/name&gt;
+        &lt;parent/&gt;
+        &lt;roles/&gt;
+        &lt;source/&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2015-03-12 08:38:15&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;8e905678693231007f445127304e9019&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2015-03-12 08:39:52&lt;/sys_updated_on&gt;
+        &lt;type/&gt;
+    &lt;/sys_user_group&gt;
+&lt;/record_update&gt;
+]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-04-02 23:19:37&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;cac3653fa5cf31007f445f185edd8244&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Marketing Approvers&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_cac3653fa5cf31007f445f185edd8244&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2015-04-02 23:19:37&lt;/sys_updated_on&gt;&lt;tablename&gt;sys_user_group&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="appcreation201">ccfec11fa5d771007f445f185edd828a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-04-13 18:47:16</sys_created_on>
+<sys_id>c4fec11fa5d771007f445f185edd828b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-04-13 18:47:16</sys_updated_on>
+<table/>
+<target_name>Marketing Approvers</target_name>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

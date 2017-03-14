@@ -1,0 +1,28 @@
+<div>
+<div class="container">
+<form class="form-horizontal"> <!-- Event picker -->
+<div class="form-group">
+<label for="mktg_event">Event</label> <sn-record-picker field="evt"
+table="'YOUR_SCOPED_TABLE_marketing_event'" display-field="'name'" value-field="'sys_id'"
+display-fields="'short_description'" search-fields="'name'" page-size="20"
+id="mktg_event">
+</sn-record-picker> </div>
+<!-- First name -->
+<div class="form-group">
+<label for="exampleInputName2">First name</label>
+<input type="text" class="form-control" id="attendee_first" placeholder="Joe" ng-model="c.data.attendeeFirstName">
+</div>
+<!-- Last name -->
+<div class="form-group">
+<label for="exampleInputName2">Last name</label>
+<input type="text" class="form-control" id="attendee_last" placeholder="Employee" ng-model="c.data.attendeeLastName">
+</div>
+<!-- Email -->
+<div class="form-group">
+<label for="exampleInputEmail2">Email</label>
+<input type="email" class="form-control" id="attendee_email" placeholder="joe.employee@example.com" ng-model="c.data.attendeeEmail">
+</div>
+<button type="submit" class="btn btn-default" ng-click="c.doIt()" >Add</button>
+</form>
+  </div>
+</div>
