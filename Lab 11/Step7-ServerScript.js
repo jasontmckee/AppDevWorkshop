@@ -4,7 +4,7 @@
     /***
     If a server call is performed, run this function. ***/
     if (input) {
-        var attendee = new GlideRecord('YOUR_SCOPED_TABLE_attendee'); attendee.initialize();
+        var attendee = new GlideRecord('x_<YOUR_SCOPE_HERE>_attendee'); attendee.initialize();
         attendee.marketing_event = input.event;
         attendee.first_name = input.first_name;
         attendee.last_name = input.last_name; 
